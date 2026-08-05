@@ -1,5 +1,5 @@
 # Ex.No: 3  Basic movements in Unity 
-### DATE: 24/07/2026  
+### DATE: 24/07/2026      
 ### NAME : PAIDA RAM SAI
 ### REGISTER NUMBER : 212223110034
 ### AIM: 
@@ -63,4 +63,3 @@ public class TransformOperations : MonoBehaviour
 
 ### Result:
 Thus the basic movement is learned through scripting
-](https://github.com/ramsai22/19AI550_new/blob/main/Ex.No.2_FirstScript_in_unity.md)
