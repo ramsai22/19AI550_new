@@ -1,6 +1,7 @@
 # Ex.No: 3  Basic movements in Unity 
-### DATE: 24/07/2026                                                                           
-### REGISTER NUMBER : 212223240098
+### DATE: 24/07/2026
+### NAME : PAIDA RAM SAI
+### REGISTER NUMBER : 212223110034
 ### AIM: 
  To learn the basic movements translation,scaling and rotation of game objects through code.
 ### Procedure:
