@@ -1,4 +1,4 @@
-[# Ex.No: 3  Basic movements in Unity 
+# Ex.No: 3  Basic movements in Unity 
 ### DATE: 24/07/2026  
 ### NAME : PAIDA RAM SAI
 ### REGISTER NUMBER : 212223110034
