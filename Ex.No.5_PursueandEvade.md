@@ -22,15 +22,20 @@ To write a program to simulate the process of Pursue and Evade behavior in Unity
    Go to the Bake tab and click Bake.
    or
    Add navMeshSurface to plane and bake 
-4. Add NavMeshAgent Component 
+5. Add NavMeshAgent Component 
     Select Pursuer, and Evader.
     Click Add Component → Search for NavMeshAgent and add it.
     Adjust NavMeshAgent Settings:
     Player: Set Speed = 5.
     Pursuer: Set Speed = 4.
     Evader: Set Speed = 6.
-5. Write a script for  Player_movement behavior and save it
-
+6. Write a script for  Player_movement behavior and save it
+7. Attach the Script to each player,pursuer and Evader.
+   Drag & Drop the Target from the Hierarchy into the "Target" field in the script component ( For pursuer and Evader).
+8. Run the game 
+9. Stop the program
+program
+```
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -101,10 +106,6 @@ public class Pursuer: MonoBehaviour
         pursue();          
      }
 }
-7. Attach the Script to each player,pursuer and Evader.
-   Drag & Drop the Target from the Hierarchy into the "Target" field in the script component ( For pursuer and Evader).
-12. Run the game 
-13. Stop the program
     
 ```
 ### Output:
